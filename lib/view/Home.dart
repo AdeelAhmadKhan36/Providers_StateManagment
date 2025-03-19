@@ -45,7 +45,7 @@ class _WhyStateManagmentState extends State<WhyStateManagment> {
   floatingActionButton: FloatingActionButton(onPressed:(){
     setState(() {
 
-      count;
+      count ;
     });
 
       print(count++);
