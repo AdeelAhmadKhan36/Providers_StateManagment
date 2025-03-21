@@ -1,0 +1,2 @@
+C:/Users/HB Laptop Point/StudioProjects/providers_statemanagment/android/app/.cxx/Debug/a4222481/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/HB Laptop Point/StudioProjects/providers_statemanagment/android/app/.cxx/Debug/a4222481/x86_64/CMakeFiles/rebuild_cache.dir
